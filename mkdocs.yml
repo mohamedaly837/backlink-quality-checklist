@@ -1,0 +1,7 @@
+site_name: The Backlink Quality Checklist I Use Before Trusting Any Link
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
